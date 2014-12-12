@@ -1,0 +1,127 @@
+@import url("ImageZoomer.css");
+body {
+	
+
+  margin:0px;
+  padding:0px;
+	font-family: "Open Sans", arial;
+	background:url(../img/blueCodeBackground.jpg);
+	color:#fff;
+	font-weight:300;
+
+
+
+}
+
+#header{
+ background-color: #222;
+ width: auto;
+ height: 100px;
+ box-shadow: 0px 0px 10px #000000;
+	
+	
+	
+}
+
+#text a {
+	text-decoration:underline;
+	color:#EC3D8F;
+}
+
+a:hover{
+	color:#661E1F;
+}
+
+.center {
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+}
+
+.marg {
+margin-left: 20px;	
+margin-top: 7px;
+	
+	
+}
+
+#Bottom {
+	background: #222;
+ 	box-shadow: 0px 0px 10px #000000;
+ 	width: auto;
+}
+	
+
+#Bottom p {
+ color: #ccc;
+    padding: 5px;
+ margin: 5px auto;
+ text-align: left;
+ width: 1200px;
+}
+
+#wrapper {
+	width:auto
+}
+
+#body_wrapper {
+	background-color: #EFEFEF;
+	width: 1116px;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 0px 0px 10px #000000;
+	margin-top: 25px;
+}
+
+h1 {
+	color: #000000;
+	padding:15px;
+}
+
+#Text p {
+	color: #000000;
+	font-size:15px;
+	font-family:Arial;
+	margin-left: 15px;
+	padding-bottom:1px;
+	word-wrap: break-word;
+}
+
+#BottomText {
+	padding-bottom: 4px;
+	padding-top: 16px;
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box;
+	margin-top: 4px;
+	margin-bottom: 4px;
+	margin-right: 4px;
+	margin-left: 4px;
+}
+
+#box {
+	width:800px;
+}
+
+.login {
+	color: #050505;
+	padding:15px;
+}
+tr td .button {
+	text-align: center;
+	text-indent: 3px;
+	margin-left: 15px;
+	margin-right: 0px;
+}
+
+
+
+.login {
+}
+#body_wrapper #Text #BottomText {
+}
+#body_wrapper #Text table tr {
+	margin-top: 75px;
+	padding-top: 10px;
+
+}
