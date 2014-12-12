@@ -1,0 +1,69 @@
+@charset "utf-8";
+
+#tutorialListJava {
+	margin-left:15px;
+	width:700px;
+	border:5px dashed #FFF500;
+	background:#222222;
+}
+
+#tutorialListPHP {
+	margin-left:15px;
+	width:700px;
+	border:5px dashed #00E804;
+	background:#222222;
+}
+
+#tutorialListHTML {
+	margin-left:15px;
+	width:700px;
+	border:5px dashed #BC090C;
+	background:#222222;
+}
+
+#tutorialListJS {
+	margin-left:15px;
+	width:700px;
+	border:5px dashed #153AB1;
+	background:#222222;
+}
+
+#tutorialListJava ul {
+	list-style-type: none;
+}
+
+#tutorialListJava li a {
+	text-decoration:underline;
+	color:#EC3D8F;
+	
+}
+
+#tutorialListPHP ul {
+	list-style-type: none;
+}
+
+#tutorialListPHP li a {
+	text-decoration:underline;
+	color:#EC3D8F;
+	
+}
+
+#tutorialListHTML ul {
+	list-style-type: none;
+}
+
+#tutorialListHTML li a {
+	text-decoration:underline;
+	color:#EC3D8F;
+	
+}
+
+#tutorialListJS ul {
+	list-style-type: none;
+}
+
+#tutorialListJS li a {
+	text-decoration:underline;
+	color:#EC3D8F;
+	
+}

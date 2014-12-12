@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+#box {
+    position: absolute;
+    margin: -200px 0 0 -200px;
+    top: 50%;
+    left: 50%;
+}
+
+#box #content {
+	border: 3px solid #000;
+    border-radius: 25px;
+	width: 400px;
+	background:#FFFFFF;
+}
+
+p {
+	padding:5px;
+	padding-left:15px;
+	font-family:Arial;
+	font-size:24px;
+}
+
+a {
+	text-decoration:underline;
+	color:#EC3D8F;
+}
+
+a:hover{
+	color:#661E1F;
+}
+
+ul{	
+	list-style-type: none;
+}
